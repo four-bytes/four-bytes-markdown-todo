@@ -1,4 +1,4 @@
-# Four Bytes Markdown Todo
+# Four Markdown Todo
 
 Open source Vue.js markdown todo list manager with GitHub and Nextcloud compatibility.
 
@@ -62,8 +62,8 @@ This application supports the standardized TODO.md format:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/four-bytes/four-bytes-markdown-todo.git
-cd four-bytes-markdown-todo
+git clone https://github.com/four-bytes/four-markdown-todo.git
+cd four-markdown-todo
 ```
 
 2. Install frontend dependencies:
@@ -104,6 +104,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Support
 
-- 🐛 **Issues:** [GitHub Issues](https://github.com/four-bytes/four-bytes-markdown-todo/issues) for bug reports and feature requests
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/four-bytes/four-bytes-markdown-todo/discussions) for community support and questions
+- 🐛 **Issues:** [GitHub Issues](https://github.com/four-bytes/four-markdown-todo/issues) for bug reports and feature requests
+- 💬 **Discussions:** [GitHub Discussions](https://github.com/four-bytes/four-markdown-todo/discussions) for community support and questions
 - 📖 **Documentation:** Check the wiki and README for detailed information
